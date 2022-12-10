@@ -1,1 +1,1 @@
-echo 'welcome! this is a github hook trigger project'
+echo 'Github webhook trigger test'
